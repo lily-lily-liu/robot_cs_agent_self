@@ -54,5 +54,11 @@ chroma_db/
 *.sqlite3
 *.db
 
+# Project data files (local knowledge base, not to be committed)
+data/**/*.txt
+data/**/*.pdf
+data/*.txt
+data/*.pdf
+
 # Keep placeholder if needed
 !.gitkeep
